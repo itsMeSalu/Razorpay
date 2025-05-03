@@ -76,7 +76,7 @@ function App() {
           text-sm font-bold h-9">Login</button>
           <button class="py-3 px-4 font-mono border rou nded-sm  text-center
           text-sm font-bold bg-white text-blue-400 h-9 transition-all
-      duration-200 hover:text-blue-500 flex items-center">Sign Up
+      duration-200 hover:text-blue-500 flex items-center">Sign U
        <ArrowRightIcon className="h-5 w-5 ml-1" />
       </button>
  
